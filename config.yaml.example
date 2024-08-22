@@ -1,0 +1,13 @@
+env: "local" # local, dev, prod
+
+database:
+  address: ""
+  password: ""
+  db: 0
+
+http_server:
+  address: ""
+
+serial_port:
+  name: "COM14"
+  baud: 115200

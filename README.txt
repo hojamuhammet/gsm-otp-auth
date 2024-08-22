@@ -1,0 +1,1 @@
+Gets phone number by handler, generates otp code and sends via modem
